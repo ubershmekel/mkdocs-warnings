@@ -1,0 +1,4 @@
+site_name: My Docs
+pages:
+  - Overview: index.md
+  - Works: works.md

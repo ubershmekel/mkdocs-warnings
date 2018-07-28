@@ -1,0 +1,39 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\nTesting links warnings during build\n\n\n1 working link\n\n\n2 working link\n\n\n3 working link, but it probably should not\n\n\n4 working link, but it probably should not\n\n\n5 not working link, yes warning because ends with .md\n\n\n6 not working link, no warning\n\n\n7 not working link, no warning\n\n\n8 not working link, no warning",
+            "title": "Overview"
+        },
+        {
+            "location": "/#welcome-to-mkdocs",
+            "text": "For full documentation visit  mkdocs.org .",
+            "title": "Welcome to MkDocs"
+        },
+        {
+            "location": "/#commands",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Commands"
+        },
+        {
+            "location": "/#project-layout",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Project layout"
+        },
+        {
+            "location": "/#testing-links-warnings-during-build",
+            "text": "1 working link  2 working link  3 working link, but it probably should not  4 working link, but it probably should not  5 not working link, yes warning because ends with .md  6 not working link, no warning  7 not working link, no warning  8 not working link, no warning",
+            "title": "Testing links warnings during build"
+        },
+        {
+            "location": "/works/",
+            "text": "This does work\n\n\nThat link you clicked - it worked",
+            "title": "Works"
+        },
+        {
+            "location": "/works/#this-does-work",
+            "text": "That link you clicked - it worked",
+            "title": "This does work"
+        }
+    ]
+}
