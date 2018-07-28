@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: Lack of warnings on broken links in MkDocs
 pages:
   - Overview: index.md
   - Works: works.md
